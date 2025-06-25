@@ -1,0 +1,28 @@
+# KiCad project files to ignore
+
+# Backup and autosave
+*.bak
+*.kicad-bak
+*~
+
+# Cache files
+*.cache
+*.tmp
+*.zw3d
+__pycache__/
+.cache/
+sym-lib-table-backup
+
+# Backup folders
+**/fp-info-cache
+
+# Schematic and PCB-specific cache and autosave
+*.kicad_sch-bak
+*-rescue.kicad_sch
+*-rescue.dcm
+*-rescue.lib
+*-rescue.kicad_sym
+
+# Build artifacts (optional, if using build systems)
+build/
+out/
