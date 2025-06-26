@@ -253,7 +253,7 @@
 				(at 0 -45.72 90)
 				(length 2.54)
 				(hide yes)
-				(name "VND"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
