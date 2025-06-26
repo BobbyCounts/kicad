@@ -3,7 +3,7 @@
 # Backup and autosave
 *.bak
 *.kicad-bak
-*~
+**backups
 
 # Cache files
 *.cache
